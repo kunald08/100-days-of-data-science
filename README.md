@@ -27,6 +27,10 @@ This repository is dedicated to exploring and learning various concepts related 
 2. Follow the **Daily Logs** for progress and updates.
 3. Contribute by sharing your projects or improvements via pull requests.
 
+## Certification
+To reinforce your learning, consider taking certifications from [Kaggle](https://www.kaggle.com/learn/certification), which offers various courses and exams that align with this journey.
+
+
 ## Contributions
 Feel free to fork this repository, contribute your own projects, or submit ideas for learning and exploration.
 
