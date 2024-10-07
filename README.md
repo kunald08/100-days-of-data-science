@@ -26,6 +26,20 @@ Today, we cover the fundamentals of Python, essential for data science:
 - **Anonymous Functions:** Created using `lambda`
 
 ---
+# Day 2: Python Concepts
+
+Today, we covered the following essential concepts in Python:
+
+## Topics Covered:
+
+1. **Higher-Order Functions**: Functions that can accept other functions as arguments or return them.
+2. **OOP (Object-Oriented Programming)**: Includes classes, objects, inheritance, encapsulation, and polymorphism.
+3. **Iterators**: Objects that allow iteration over a collection using the `__iter__()` and `__next__()` methods.
+4. **Scope**: Visibility and lifetime of variables, including local, global, and non-local scopes.
+5. **JSON**: Lightweight data interchange format; using the `json` module to work with JSON data.
+6. **Exception Handling**: Mechanism to catch and manage errors using `try`, `except`, `else`, and `finally` blocks.
+
+---
 
 ## Topics Covered
 - Python, NumPy, Pandas
