@@ -40,6 +40,20 @@ Today, we covered the following essential concepts in Python:
 6. **Exception Handling**: Mechanism to catch and manage errors using `try`, `except`, `else`, and `finally` blocks.
 
 ---
+# Day 3: NumPy
+
+## Topics Covered:
+- **NumPy Arrays**: Fast, flexible arrays for numerical operations.
+- **Array Creation**: Using `np.array()`, `np.zeros()`, `np.ones()`, `np.arange()`, `np.linspace()`.
+- **Indexing & Slicing**: Accessing and modifying array elements.
+- **Array Operations**: Element-wise operations, broadcasting, and math functions (`np.sum()`, `np.mean()`, etc.).
+- **Shape Manipulation**: Reshaping with `np.reshape()`, stacking with `np.vstack()`, `np.hstack()`.
+- **Statistical Functions**: Basic stats like `np.min()`, `np.max()`, `np.std()`.
+- **Random Sampling**: Generating random numbers with `np.random`.
+
+Key takeaways: Efficient array operations and basic statistical analysis in Python.
+
+---
 
 ## Topics Covered
 - Python, NumPy, Pandas
