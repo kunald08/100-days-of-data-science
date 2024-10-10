@@ -67,7 +67,7 @@ Key takeaways: Efficient array operations and basic statistical analysis in Pyth
 ## How to Participate
 1. **Clone** the repo:
     ```bash
-    git clone https://github.com/dharpurekunal08/100-day-data-science.git
+    git clone https://github.com/dharpurekunal08/100-days-0f-data-science.git
     ```
 2. Follow the **Daily Logs** for progress and updates.
 3. Contribute by sharing your projects or improvements via pull requests.
